@@ -1,0 +1,30 @@
+# Virtual environments
+rag_env/
+.venv/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and runtime artifacts
+logs/
+*.log
+.storage/
+
+# Generated storage outputs
+storage/
+
+# Streamlit and local configuration
+.streamlit/
+.config/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Operating system files
+.DS_Store
+Thumbs.db

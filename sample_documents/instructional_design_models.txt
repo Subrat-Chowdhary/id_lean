@@ -1,0 +1,39 @@
+
+Instructional Design Models and Frameworks
+
+ADDIE Model:
+- Analysis: Identify learning needs, goals, and audience characteristics
+- Design: Create learning objectives, assessments, and instructional strategies
+- Development: Create and produce learning materials and content
+- Implementation: Deliver the instruction to learners
+- Evaluation: Assess the effectiveness of the instruction
+
+SAM (Successive Approximation Model):
+- Preparation: Gather information and define project scope
+- Iterative Design: Create prototypes and refine through cycles
+- Iterative Development: Build and test small portions repeatedly
+
+Bloom's Taxonomy:
+- Remember: Recall facts and basic concepts
+- Understand: Explain ideas or concepts
+- Apply: Use information in new situations
+- Analyze: Draw connections among ideas
+- Evaluate: Justify a stand or decision
+- Create: Produce new or original work
+
+Gagne's Nine Events of Instruction:
+1. Gain attention
+2. Inform learners of objectives
+3. Stimulate recall of prior learning
+4. Present the content
+5. Provide learning guidance
+6. Elicit performance
+7. Provide feedback
+8. Assess performance
+9. Enhance retention and transfer
+
+Learning Objectives Guidelines:
+- Use action verbs (Bloom's taxonomy)
+- Be specific and measurable
+- Include conditions and criteria
+- Align with assessments and activities

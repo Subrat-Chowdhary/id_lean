@@ -1,0 +1,41 @@
+
+Assessment Strategies in Instructional Design
+
+Types of Assessments:
+
+Formative Assessment:
+- Conducted during the learning process
+- Provides ongoing feedback
+- Helps adjust instruction
+- Examples: quizzes, polls, discussions, observations
+
+Summative Assessment:
+- Conducted at the end of instruction
+- Measures learning achievement
+- Examples: final exams, projects, portfolios
+
+Authentic Assessment:
+- Real-world applications
+- Performance-based
+- Examples: case studies, simulations, portfolios
+
+Assessment Design Principles:
+- Align with learning objectives
+- Use varied assessment methods
+- Provide clear criteria and rubrics
+- Give timely and specific feedback
+- Consider different learning styles
+
+Question Types:
+- Multiple choice: Quick assessment of knowledge
+- True/false: Simple fact checking
+- Short answer: Brief explanations
+- Essay: Complex thinking and analysis
+- Practical: Hands-on demonstration
+
+Feedback Best Practices:
+- Be specific and actionable
+- Focus on the learning, not the learner
+- Provide both positive and constructive feedback
+- Offer suggestions for improvement
+- Give feedback promptly
